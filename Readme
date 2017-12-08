@@ -1,0 +1,5 @@
+In order to launch all of the programs do the following:
+
+1. MultiWii_Flip open in Arduino IDE and upload to the UAV
+2. MultiWii_MotionChar open in Processing 2.2.1 to simulate values
+3. Open pygame-controller and run using the command "python3 controller.py"
